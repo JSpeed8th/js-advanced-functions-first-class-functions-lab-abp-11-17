@@ -1,3 +1,3 @@
 const result = function (drivers) {
-  return drivers[0];
+  return [drivers[0], drivers[2] ];
 }
