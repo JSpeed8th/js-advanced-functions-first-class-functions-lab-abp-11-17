@@ -10,7 +10,7 @@ const selectingDrivers = [ returnFirstTwoDrivers, returnLastTwoDrivers];
 
 function createFareMultiplier(integer) {
   return function (integer) {
-    return integer * 4;
+    return integer * integer;
   }
 };
 
