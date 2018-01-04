@@ -15,7 +15,7 @@ function createFareMultiplier(integer) {
   }
 };
 
-const fareDoubler = createFareMultiplier() {
+const fareDoubler = createFareMultiplier(integer) {
   return integer * 2;
 };
 
