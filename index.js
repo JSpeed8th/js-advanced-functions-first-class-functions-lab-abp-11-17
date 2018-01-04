@@ -19,6 +19,10 @@ const fareDoubler = function (integer) {
   return integer * 2;
 };
 
+const fareTripler = function (integer) {
+  return integer * 3;
+}
+
 
 function selectDifferentDrivers (drivers, fn) {
   return fn(drivers);
