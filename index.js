@@ -14,7 +14,7 @@ function createFareMultiplier(integer) {
   }
 };
 
-const fareDoubler = createFareMultiplier(integer * 2);
+const fareDoubler = createFareMultiplier( * 2);
 
 
 function selectDifferentDrivers (drivers, fn) {
